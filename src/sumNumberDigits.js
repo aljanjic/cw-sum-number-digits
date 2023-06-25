@@ -1,5 +1,5 @@
 function sumDigits() {
-  return 'hello';
+  return 5;
 }
 
 module.exports = sumDigits;

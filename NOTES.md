@@ -15,3 +15,10 @@ Let's assume that all numbers in the input will be integer values.
 - ✅ DONE
 
 ## Plans
+
+- ⚠ TODO ' 32 should return 5'
+- ⚠ TODO ' -52 should return 7'
+- ⚠ TODO ' -128 should return 11'
+- ⚠ TODO ' 0 should return 0'
+
+

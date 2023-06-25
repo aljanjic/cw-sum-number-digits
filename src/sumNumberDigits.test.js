@@ -1,7 +1,7 @@
 const sumNumberDigits = require('./sumNumberDigits');
 
 describe('sumNumberDigits', () => {
-  it('should return hello', () => {
-    expect(sumNumberDigits()).toBe('hello');
+  it(' 32 should return 5', () => {
+    expect(sumNumberDigits(32)).toBe(5);
   });
 });
