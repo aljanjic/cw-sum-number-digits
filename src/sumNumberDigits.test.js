@@ -13,11 +13,11 @@ describe('sumNumberDigits', () => {
     expect(sumNumberDigits(10)).toBe(1);
   });
 
-  // it(' -52 should return 7', () => {
-  //   expect(sumNumberDigits(-52)).toBe(7);
-  // });
+  it(' -52 should return 7', () => {
+    expect(sumNumberDigits(-52)).toBe(7);
+  });
 
-  // it( '-128 should return 11', () => {
-  //   expect(sumNumberDigits(-128)).toBe(11);
-  // });
+  it( '-128 should return 11', () => {
+    expect(sumNumberDigits(-128)).toBe(11);
+  });
 });

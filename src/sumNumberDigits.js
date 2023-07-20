@@ -1,4 +1,3 @@
-const { check } = require("prettier");
 
 function sumDigits(num) {
   
