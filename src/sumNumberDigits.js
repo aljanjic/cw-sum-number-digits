@@ -15,3 +15,17 @@ function sumDigits(num) {
 }
 
 module.exports = sumDigits;
+
+
+
+// export function sumDigits(num: number): number {
+  
+//   let remaining:number = Math.abs(num);
+//   let result:number = 0;
+//   while (remaining > 0 ){
+//     if(remaining % 10 !== 0) result += remaining % 10
+//     remaining = Math.floor(remaining / 10)
+//   }
+  
+//   return result;
+// }
